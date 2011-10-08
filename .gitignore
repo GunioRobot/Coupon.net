@@ -1,0 +1,13 @@
+*.com
+*.class
+*.exe
+*.o
+*.so
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+bin/
+obj/
+Debug/
+
